@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Mikhail Shvets
 
-🎓 I’m a 3rd-year undergraduate student at **Voronezh State Technical University**, enrolled in the **Bachelor’s program** in **Information Systems and Technologies**.
+🎓 I’m a 4rd-year undergraduate student at **Voronezh State Technical University**, enrolled in the **Bachelor’s program** in **Information Systems and Technologies**.
 
 📚 I have a strong foundation in mathematics and theoretical computer science, including:
 - **Discrete Mathematics**
